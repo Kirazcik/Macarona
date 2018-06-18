@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    color: darksalmon;     
+    font-size:16px;
+    background-image: url(images/cool-black-background-designs-photo-27.jpeg);
+    background: cover;
+    width: 50%;
+    margin:auto;
+}
+h1{
+    background-color: white; 
+    border-bottom: solid 10px darksalmon;
+}
+.malzemeler{
+    color:white;
+}
+.baslik{
+    color:aqua;
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+#yazi{
+    font-family:cursive;
+    font-size: 18px;
+    color:darkgreen;
+}
+img{
+    display: block;
+    width: 60%;
+    border: dotted 5px white;
+    border-radius: 10%;
+    margin: auto;
+}
